@@ -88,7 +88,7 @@ GEM
       railties (>= 4.1.0)
       responders
       warden (~> 1.2.3)
-    em-websocket (0.5.1)
+    em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     erubi (1.9.0)
